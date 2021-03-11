@@ -1,6 +1,6 @@
 # What is Ethereal?
 - A cryptocurrency made for the python-based blockchain.
-- Can send and receive coins.
+- Send and Receive ethereal(cryptocurrency).
 
 ## To be installed:
 - Flask==0.12.2: pip install Flask==0.12.2
