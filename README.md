@@ -20,13 +20,13 @@
 - <b>replace_chain</b>: Changes the existing version of the blockchain present on that individual's node to the longest version of the blockchain. 
 ![replace_chain(3).png](https://github.com/arshalsoren/Ethereal/blob/main/images/replace_chain(3).png)
 
-- <b>add_transaction</b>: Sending 100 Ethereal from "Arshal" to "Nuna".
+- <b>add_transaction</b>: Sending 100 Ethereal from "Arshal" to "Nuna". Using [transaction.json](https://github.com/arshalsoren/Ethereal/blob/main/transaction.json).
 ![add_trans(4).png](https://github.com/arshalsoren/Ethereal/blob/main/images/add_trans(4).png)
 
 - As you can see, A new block is added to the current blockchain and the transaction is added to the 3rd block.
 ![new_block_added(5).png](https://github.com/arshalsoren/Ethereal/blob/main/images/new_block_added(5).png)
 
-- Now sending 10000 Ethereal from "Arshal" to "Soren".
+- Now sending 10000 Ethereal from "Arshal" to "Soren". Using [transaction.json](https://github.com/arshalsoren/Ethereal/blob/main/transaction.json).
 ![to_soren(6).png](https://github.com/arshalsoren/Ethereal/blob/main/images/to_soren(6).png)
 
 - <b>Final Ethereal Blockchain</b>
