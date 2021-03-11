@@ -8,4 +8,13 @@
 - requests==2.18.4: pip install requests==2.18.4
 
 ## How does it work?
-- <b>get_chain</b>
+- <b>get_chain</b>: Displays the Ethereal Blockchain.
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
